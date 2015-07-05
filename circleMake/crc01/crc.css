@@ -1,0 +1,28 @@
+body {
+background: linear-gradient(357deg, #abecdb, #58032f);
+background-size: 1000%;
+
+
+-webkit-animation: aniBackGd 4s ease infinite;
+-moz-animation: aniBackGd 4s ease infinite;
+-keyframes-animation: aniBackGd 4s ease infinite;
+}
+
+@-webkit-keyframes aniBackGd {
+    0%{background-position:0% 83%}
+    50%{background-position:100% 18%}
+    100%{background-position:0% 83%}
+}
+@-moz-keyframes aniBackGd {
+    0%{background-position:0% 83%}
+    50%{background-position:100% 18%}
+    100%{background-position:0% 83%}
+}
+@keyframes aniBackGd { 
+    0%{background-position:0% 83%}
+    50%{background-position:100% 18%}
+    100%{background-position:0% 83%}
+}
+.circle45 {
+padding: 20px;
+}
