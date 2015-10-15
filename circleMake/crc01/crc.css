@@ -18,7 +18,7 @@ background-size: 1000%;
     50%{background-position:100% 18%}
     100%{background-position:0% 83%}
 }
-@keyframes aniBackGd { 
+@keyframes aniBackGd {
     0%{background-position:0% 83%}
     50%{background-position:100% 18%}
     100%{background-position:0% 83%}

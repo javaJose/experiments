@@ -30,11 +30,11 @@ body {
  padding-left: 50px;
  border-radius: 0 15px 15px 0;
  position: relative;
- background-color: #B2AA99;
- background-image: linear-gradient(to bottom, #24214A 0%, #5c4e35 100%);
-
+ background-color: #952955;
+ background-image: linear-gradient(to bottom, #952955 0%, #561f55 100%);
+color:white;
   }
-  
+
   .ribbon:after {
   content:"";
     position:absolute;
@@ -46,10 +46,10 @@ body {
     left: 0px;
     background: transparent;
     z-index: -1;
-	
+
   }
-  
-  
+
+
   .ribbon:before {
 	content:"";
     position:absolute;
@@ -61,6 +61,5 @@ body {
     left: 0px;
     background: transparent;
     z-index: -1;
-	
+
   }
-  
